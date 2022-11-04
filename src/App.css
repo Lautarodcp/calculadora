@@ -1,0 +1,14 @@
+.App{
+  border: 4px solid black;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+}
+
+.lineaUno, 
+.lineaDos,
+.lineaTres,
+.lineaCuatro{
+  display: flex;
+}

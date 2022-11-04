@@ -1,0 +1,13 @@
+.pantalla{
+    background-color: aqua;
+    width: 90%;
+    min-height: 25px ;
+    border: 1px solid black;
+    border-radius: 10%;
+    margin: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+
+}
